@@ -21,6 +21,12 @@
  height: 100px;
 }
 
+.Cabecera figure {
+ width:130px;
+ Margin:Auto;
+}
+
+
 .Cabecera img{
  width:100px; 
 }
