@@ -71,12 +71,19 @@
   transform: translateX(-100%); 
 }
 
-.nav_link {
+/*.nav_link {
  display: block;
  text-decoration: none;
  line-height: 20px;
  text-indent: 10px;
 }
+*/
+
+.nav_link{
+ text-decoration: none;
+ color: #333;
+ display: inline-block;
+ }
 
 .nav_link: last-child {
  text-indent: 5px; 
