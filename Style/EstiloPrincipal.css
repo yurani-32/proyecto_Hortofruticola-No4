@@ -67,6 +67,9 @@
  text-indent: 10px;
 }
 
+.nav_link: last-child {
+ text-indent: 5px; 
+}
 
 
 
