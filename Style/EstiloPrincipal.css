@@ -14,9 +14,4 @@
  overflow: hidden;
 }
 
-.Cabecera {
- display: flex;
- justify-content: space-between;
- position: relative;
- height: 100px;
-}
+
