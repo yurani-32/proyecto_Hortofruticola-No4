@@ -55,7 +55,7 @@
  will-change: transition;
 }
 
-.nav-move{
+.nav--move{
   transform: translateX(-100%); 
 }
 
