@@ -88,6 +88,11 @@
 .nav_link: last-child {
  text-indent: 5px; 
 }
+
+.nav__link--palote:before{
+ content: "| "
+ }
+
 /************/
 
 /*@media screen and (min-width: 800px){
