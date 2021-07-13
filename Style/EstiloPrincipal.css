@@ -76,10 +76,6 @@
 
 @media screen and (min-width: 800px){
 
-	.cabecera figure, .cabecera img{
-		width:300px;
-	}
-
 	.cabecera__h1{
 		position: absolute;
 		top: 40px;
