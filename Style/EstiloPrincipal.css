@@ -55,6 +55,14 @@
  border:none;
 }
 
+.nav_link{
+ background: #008B99;
+ color: white;
+ padding: 5px;
+ border-radius: 3px; 
+ }
+
+
 
 
 
