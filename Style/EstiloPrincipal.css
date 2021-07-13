@@ -55,10 +55,6 @@
  border:none;
 }
 
-.nav--move{
-  transform: translateX(-100%); 
-}
-
 .nav_link{
  background: #008B99;
  color: white;
