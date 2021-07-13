@@ -55,6 +55,9 @@
  will-change: transition;
 }
 
+.nav-move{
+  transform: translateX(-100%); 
+}
 
 
 
