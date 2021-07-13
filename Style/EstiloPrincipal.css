@@ -70,7 +70,60 @@
 .nav_link: last-child {
  text-indent: 5px; 
 }
+************
 
+media screen and (min-width: 800px){
+
+	.cabecera figure, .cabecera img{
+		width:300px;
+	}
+
+	.cabecera__h1{
+		position: absolute;
+		top: 40px;
+		left: 150px;
+	}
+
+	.cabecera__frase{
+		position: absolute;
+		top: 75px;
+		left: 235px;
+	}
+
+	.nav{
+		display: block;
+	}
+
+	.iconMenu{
+		display: none;
+	}
+
+	.nav{
+		margin: 10px 10px 0 0;
+		position: unset;
+		background: none;
+		height: auto;
+		width: unset;
+		border:none;
+	}
+
+	.nav__link{
+		text-decoration: none;
+		color: #333;
+		display: inline-block;
+	}
+
+	.nav__link--palote:before{
+		content: "| "
+	}
+
+	.nav__link--button{
+		background: #008B99;
+		color: white;
+		padding: 5px;
+		border-radius: 3px; 
+	}
+}
 
 
 
