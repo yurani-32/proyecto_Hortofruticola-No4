@@ -59,6 +59,20 @@ border:none;
  border-radius:3px;
 }
 
+.nav_link_palote {
+ background: #008899;
+ color:white;
+ padding:5px;
+ border-radius:3px;
+}
+
+.nav_link_button {
+ background: #008899;
+ color:white;
+ padding:5px;
+ border-radius:3px;
+}
+
 
 
   
