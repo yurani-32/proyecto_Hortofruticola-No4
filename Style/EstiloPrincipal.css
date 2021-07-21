@@ -9,7 +9,7 @@
  border: solid 1px black; 
  width: 100%;
  max-width: 1000px;
- magin:auto;
+ margin:auto;
  box-sizzing: border-box;
  overflow:hidden;
 }
