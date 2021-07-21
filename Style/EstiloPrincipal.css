@@ -99,15 +99,15 @@ border:none;
 }
 
 .elemento1:checked ~ .galeria_contenedor {
- transform: traslateX(0px); 
+ transform: trasnlateX(0px); 
 }
 
 .elemento2:checked ~ .galeria_contenedor {
- transform: traslateX(-600px); 
+ transform: translateX(-600px); 
 }
 
 .elemento3:checked ~ .galeria_contenedor {
- transform: traslateX(-1200px); 
+ transform: trasnlateX(-1200px); 
 }
 
 
