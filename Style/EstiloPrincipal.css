@@ -84,6 +84,11 @@ border:none;
   align-items: center; 
 }
 
+.galeria_lienzo {
+  width: 600px;
+  heigth: 350px;
+  overflow:hidden;
+}
 
 
 
