@@ -110,7 +110,23 @@ border:none;
  transform: trasnlateX(-1200px); 
 }
 
+.controles {
+ width: 100%;
+ height: 30px;
+ display: flex;
+ justify-content: center;
+ position: relative;
+ top: -26px;
+}
 
+
+
+
+
+
+
+  
+}
 
   
   
