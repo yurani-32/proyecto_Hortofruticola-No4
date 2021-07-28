@@ -106,8 +106,8 @@ border:none;
  transform: translateX(-600px); 
 }
 
-.elemento3:checked ~ .galeria_contenedor {
- transform: trasnlateX(-1200px); 
+.elemento2:checked ~ .galeria_contenedor {
+ transform: translateX(-1200px); 
 }
 
 .controles {
