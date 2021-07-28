@@ -103,7 +103,7 @@ border:none;
 }
 
 .elemento2:checked ~ .galeria_contenedor {
- transform: translateX(0px); 
+ transform: translateX(-600px); 
 }
 
 
