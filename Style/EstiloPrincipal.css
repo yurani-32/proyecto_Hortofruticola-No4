@@ -98,17 +98,7 @@ border:none;
  will-change: transform;
 }
 
-.elemento1:checked ~ .galeria_contenedor {
- transform: trasnlateX(0px); 
-}
 
-.elemento2:checked ~ .galeria_contenedor {
- transform: trasnlateX(-600px); 
-}
-
-.elemento3:checked ~ .galeria_contenedor {
- transform: trasnlateX(-1200px); 
-}
 
 .controles {
  width: 100%;
