@@ -98,6 +98,13 @@ border:none;
  will-change: transform;
 }
 
+.elemento1:checked ~ .galeria_contenedor {
+ transform: translateX(0px); 
+}
+
+.elemento2:checked ~ .galeria_contenedor {
+ transform: translateX(0px); 
+}
 
 
 .controles {
@@ -108,6 +115,7 @@ border:none;
  position: relative;
  top: -26px;
 }
+
 
 label{
  margin:5px;
