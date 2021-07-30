@@ -178,6 +178,23 @@ label{
   text-align: justify;  
 }
   
+/*************************/
+
+.espacio {
+ position:relative;
+ height:20px;
+}
+
+.piePagina {
+ display: flex;
+ justify-content:center;
+ position:relative;
+ height:105px;
+ brackground: #008899;
+ align-content:center;
+}
+
+
   
   
   
