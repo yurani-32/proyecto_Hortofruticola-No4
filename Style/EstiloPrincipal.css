@@ -154,7 +154,7 @@ label{
 }
 
 .tienda img {
- position:absolute;
+ position:relative;
  top: 5px;
  width:150px;
  height: 100px;
