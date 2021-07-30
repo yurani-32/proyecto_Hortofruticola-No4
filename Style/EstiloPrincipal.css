@@ -152,6 +152,18 @@ label{
  overflow: hidden;
 
 }
+
+.tienda img {
+ position:absolute;
+ top: 5px;
+ width:150px;
+ height: 100px;
+ border-radius: 15px;
+}
+  
+  
+  
+  
   
   
   
