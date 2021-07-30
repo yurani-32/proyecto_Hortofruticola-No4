@@ -186,12 +186,19 @@ label{
 }
 
 .PiePagina {
- display: flex;
- justify-content:center;
- position:relative;
- height:105px;
- brackground: #008899;
- align-content:center;
+ display:flex;
+ justify-content: center;
+ position: relative;
+ height: 105px;
+ background: #008899;
+ align-content: center;
+}
+
+.PiePagina footer {
+ 
+  text-align:center;
+  color:white;
+  
 }
 
 
