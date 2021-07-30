@@ -141,6 +141,17 @@ label{
   height:auto;
 }
 
+
+.tienda article {
+ display:flex; 
+ justify-content: center;
+ align-content: center;
+ flex-flow:wrap;
+ border:solid;
+ border-radius: 15px;
+ overflow: hidden;
+
+}
   
   
   
