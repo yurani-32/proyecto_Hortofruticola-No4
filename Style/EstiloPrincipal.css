@@ -130,6 +130,72 @@ label{
  display:block;
  cursor: pointer;
 }
+.tienda article {
+  disply: flex;
+  justify-content:center;
+  grip-gap:16px;
+  width:100%;
+  height:auto;  
+
+  . tienda article:
+    display:flex;
+  justify-content:center;
+  align-content:center;space between;
+  flex-flow:wrap;
+  border:solid;
+  border-radius:15px;
+  overflow:hidden;
+  
+}
+
+.tienda img {
+  position:relative;
+  top:5px;
+  width:150px;
+  heigth:100px;
+  border-radius:15px;
+}
+
+.tienda div {
+  width:100%;
+  height:50px;
+  background:#0088899;
+}
+
+.tienda p {
+  text-align:justify;
+  
+  /************************/
+  .espacio{
+   position:relative;
+    heigth:20px;
+  }
+  
+  .PiePagina {
+    display:flex;
+    justify-content:center;
+    position:relative;
+    heigth:105px;
+    background:#008899;
+    align-content:center;
+  }
+.PiePagina footer {
+  
+  text-align:center;
+  color: white;
+  
+  }
+  
+  //******MODO RESPONSIVE*/
+ @media screen and (max-width:600px)
+   .tienda{
+     grid-template:repeat(1,300px) / repeat(1, 300px);
+  }
+  
+}
+  +
+  
+    
 
   
   
