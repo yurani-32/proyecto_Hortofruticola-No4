@@ -144,7 +144,7 @@ border:none;
 .tienda article { 
   display:flex;
   justify-content:center;
-  align-content:center;space between;
+  align-content:space between;
   flex-flow:wrap;
   border: solid;
   border-radius:15px;
