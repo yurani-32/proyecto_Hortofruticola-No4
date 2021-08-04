@@ -62,7 +62,7 @@ border:none;
 
 .nav_link_palote {
  background: #008899;
- color:white;
+ color:black;
  padding:5px;
  border-radius:6px;
 }
@@ -126,7 +126,7 @@ border:none;
  height: 20px;
  border-radius: 110px;
  background:black;
- display:black;
+ display:block;
  cursor: pointer;
 }
 
