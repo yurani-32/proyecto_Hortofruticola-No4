@@ -21,13 +21,15 @@
   position: relative;
   height:100px
 }
+
+.Cabecera figure {
+ width: 130px;
+  margin:auto;
+}
+  
 .Cabecera img {
  width:130px; 
- height: 220px;
-}
-.Cabecera figure {
- width: 100px;
-
+ height: 100px;
 }
 
 .cabecera_h1 {
@@ -129,15 +131,15 @@ label{
  cursor: pointer;
 }
 .tienda article {
-  disply: flex;
+  disply: grid;
+   grid-template: repeat(3,300px) / repeat(3, 300px);
   justify-content:center;
   grip-gap:16px;
   width:100%;
   height:auto;  
-  .tienda {
-    display: grid;
-    grid-template: repeat(3,300px) / repeat(3, 300px);
-    
+ 
+  
+}
 
   . tienda article{
     display:flex;
@@ -166,6 +168,7 @@ label{
 
 .tienda p {
   text-align:justify;
+  padding:10px;
   
 }
 
@@ -201,42 +204,8 @@ label{
    }
 }
 
-    @media screen and (max-width: 600px)-(
       
-      .cabecera{
-        display:flex;
-        justify-content: space-between;
-        position:relative;
-        height:130px;
-}
 
-.cabecera figure{
-  width:130px;
-  margin:auto;
-}
-
-.cabecera img{
-  
-  width:95px;
-  height:80px;
-}
-
-.cabecera_h1 {
-    position:absolute;
-  top:40px;
-  left:100px;
-}
-.cabecera_fase {
-position: absolute;
- top:70px;
- left:100px;
-}
-
-.nav{
-  display:none;
-}
-
-}
 
   
   
