@@ -141,7 +141,7 @@ border:none;
  
   
 }
- .tienda  { 
+.tienda article { 
     display:flex;
   justify-content:center;
   align-content:center;space between;
