@@ -135,7 +135,7 @@ border:none;
  display: grid;
  grid-template: repeat(3,300px) / repeat(3,300px);
  justify-content:center;
- grip-gap:16px;
+ grip-gap:26px;
  width: 100%;
  height: auto;  
  
