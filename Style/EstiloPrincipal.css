@@ -6,7 +6,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .Contenedor {
-border: solid 1px pink; 
+border: solid 1px blank; 
 width: 100%;
 max-width: 1000px;
 margin:auto;
@@ -55,21 +55,21 @@ border:none;
 
 .nav_link {
  background: #008899;
- color:pink;
+ color:white;
  padding:5px;
  border-radius:7px;
 }
 
 .nav_link_palote {
  background: #008899;
- color:pink;
+ color:white;
  padding:5px;
  border-radius:6px;
 }
 
 .nav_link_Button {
  background: #008899;
- color:pink;
+ color:white;
  padding:5px;
  border-radius:6px;
 }
@@ -125,7 +125,7 @@ border:none;
  width: 20px;
  height: 20px;
  border-radius: 110px;
- background: red;
+ background:pink;
  display:block;
  cursor: pointer;
 }
