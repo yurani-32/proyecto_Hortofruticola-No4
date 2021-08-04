@@ -134,7 +134,7 @@ border:none;
 .tienda  {
   disply: grid;
    grid-template: repeat(3,300px) / repeat(3,300px);
-  justify-content: 120px;
+  justify-content:space-between;
   grip-gap:16px;
   width: 100%;
   height: auto;  
