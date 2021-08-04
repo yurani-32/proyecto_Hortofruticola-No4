@@ -57,21 +57,21 @@ border:none;
  background: #008899;
  color:white;
  padding:5px;
- border-radius:1px;
+ border-radius:4px;
 }
 
 .nav_link_palote {
  background: #008899;
  color:white;
  padding:5px;
- border-radius:1px;
+ border-radius:6px;
 }
 
 .nav_link_Button {
  background: #008899;
  color:white;
  padding:5px;
- border-radius:1px;
+ border-radius:6px;
 }
 
 /**************************/
@@ -124,7 +124,7 @@ border:none;
  margin:5px;
  width: 20px;
  height: 20px;
- border-radius: 50px;
+ border-radius: 120px;
  background: red;
  display:block;
  cursor: pointer;
@@ -147,7 +147,7 @@ border:none;
   align-content:space-between;
   flex-flow:wrap;
   border: solid;
-  border-radius:5px;
+  border-radius:15px;
   overflow: hidden;
   
 }
