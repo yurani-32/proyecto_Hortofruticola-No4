@@ -156,7 +156,7 @@ border:none;
   position:relative;
   top:5px;
   width:150px;
-  heigth:100px;
+  height:100px;
   border-radius:15px;
 }
 
@@ -179,14 +179,14 @@ border:none;
   /************************/
   .espacio{
    position:relative;
-    heigth:20px;
+    height:20px;
   }
   
   .PiePagina {
     display:flex;
     justify-content:center;
     position:relative;
-    heigth:105px;
+    height:105px;
     background:#008899;
     align-content:center;
   }
