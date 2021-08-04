@@ -165,6 +165,12 @@ label{
 .tienda p {
   text-align:justify;
   
+}
+
+.tienda h3 {
+  tex-align: justify;
+}
+  
   /************************/
   .espacio{
    position:relative;
@@ -193,7 +199,6 @@ label{
   }
   
 }
-  +
   
     
 
