@@ -199,7 +199,42 @@ label{
    }
 }
 
-    
+    @media screen and (max-width: 600px)-(
+      
+      .cabecera{
+        display:flex;
+        justify-content: space-between;
+        position:relative;
+        height:130px;
+}
+
+.cabecera figure{
+  width:130px;
+  margin:auto;
+}
+
+.cabecera img{
+  
+  width:95px;
+  height:80px;
+}
+
+.cabecera_h1 {
+    position:absolute;
+  top:40px;
+  left:100px;
+}
+.cabecera_fase {
+position: absolute;
+ top:70px;
+ left:100px;
+}
+
+.nav{
+  display:none;
+}
+
+}
 
   
   
