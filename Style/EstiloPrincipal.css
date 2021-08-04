@@ -120,8 +120,7 @@ border:none;
  top: -26px;
 }
 
-
-label{
+.label{
  margin:5px;
  width: 20px;
  height: 20px;
@@ -142,8 +141,7 @@ label{
  
   
 }
-
-  . tienda article{
+ .tienda article{
     display:flex;
   justify-content:center;
   align-content:center;space between;
