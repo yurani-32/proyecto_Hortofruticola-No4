@@ -21,15 +21,13 @@
   position: relative;
   height:100px
 }
-
-.Cabecera figure {
- width: 130px;
- margin: auto;
-}
-
 .Cabecera img {
  width:130px; 
- height: 100px;
+ height: 220px;
+}
+.Cabecera figure {
+ width: 100px;
+
 }
 
 .cabecera_h1 {
