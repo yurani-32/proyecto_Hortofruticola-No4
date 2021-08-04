@@ -202,7 +202,7 @@ label{
   //******MODO RESPONSIVE*/
  @media screen and (max-width:600px)-{
    .tienda{
-     grid-template: repeat(3, 300px) / repeat   repeat(1, 300 px);
+     grid-template: repeat(1, 300px) / repeat   repeat(1, 300 px);
    }
 }
 
