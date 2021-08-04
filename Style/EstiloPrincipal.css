@@ -55,7 +55,7 @@ border:none;
 
 .nav_link {
  background: #008899;
- color:white;
+ color:black;
  padding:5px;
  border-radius:7px;
 }
@@ -126,7 +126,7 @@ border:none;
  height: 20px;
  border-radius: 110px;
  background:black;
- display:block;
+ display:black;
  cursor: pointer;
 }
 
