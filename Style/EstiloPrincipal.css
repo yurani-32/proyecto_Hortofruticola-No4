@@ -55,14 +55,14 @@ border:none;
 
 .nav_link {
  background: #008899;
- color:black;
+ color:white;
  padding:5px;
  border-radius:7px;
 }
 
 .nav_link_palote {
  background: #008899;
- color:black;
+ color:white;
  padding:5px;
  border-radius:6px;
 }
@@ -124,7 +124,7 @@ border:none;
  margin:5px;
  width: 20px;
  height: 20px;
- border-radius: 110px;
+ border-radius: 80px;
  background:black;
  display:block;
  cursor: pointer;
