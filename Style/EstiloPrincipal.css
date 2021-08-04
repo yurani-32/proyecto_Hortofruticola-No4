@@ -132,7 +132,7 @@ label{
 }
 
 /************************/
-.tienda article {
+.tienda  {
   disply: grid;
    grid-template: repeat(3,300px) / repeat(3, 300px);
   justify-content:center;
