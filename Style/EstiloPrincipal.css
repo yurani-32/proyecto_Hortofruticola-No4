@@ -1,17 +1,17 @@
 
 *{
-  margin:0;
-  padding: 0;
-  font-family: 'Open Sans', sans-serif;
+margin:0;
+padding: 0;
+font-family: 'Open Sans', sans-serif;
 }
 
 .Contenedor {
- border: solid 1px black; 
- width: 100%;
- max-width: 1000px;
- margin:auto;
- box-sizzing: border-box;
- overflow:hidden;
+border: solid 1px black; 
+width: 100%;
+max-width: 1000px;
+margin:auto;
+box-sizzing: border-box;
+overflow:hidden;
 }
 
 
@@ -23,19 +23,19 @@
 }
 
 .Cabecera figure {
- width: 130px;
-  margin:auto;
+width: 130px;
+margin:auto;
 }
   
 .Cabecera img {
- width:130px; 
- height: 100px;
+width:130px; 
+height: 100px;
 }
 
 .cabecera_h1 {
- position:absolute;
- top: 40px;
- left:150px;
+position:absolute;
+top: 40px;
+left:150px;
 }
 
 .cabecera_frase {
@@ -141,7 +141,7 @@ border:none;
  
   
 }
- .tienda article{
+ .tienda  { 
     display:flex;
   justify-content:center;
   align-content:center;space between;
