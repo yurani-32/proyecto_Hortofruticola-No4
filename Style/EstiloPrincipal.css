@@ -185,7 +185,7 @@ border:none;
   .PiePagina {
     display:flex;
     justify-content:center;
-    position:relative;
+    position:center;
     height:105px;
     background:#008899;
     align-content:center;
