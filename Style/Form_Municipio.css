@@ -10,7 +10,7 @@ body {
 
 
 .form-municipio {
-  width: 60;
+  width: 60%;
   max-width: 500px;
   margin: auto;
   background: #d6e6ed;
@@ -36,14 +36,14 @@ body {
   justify-content:space-between;
 }
 
-.tabla-municipio {
+.tabla-municipios {
   text-align: left;
   border: 1px solid darkgray;
   width:100%;
 }
 
 .tabla_butones {
-  text-align:center;
+  text-align: center;
   border: 1px  solid darkgray;
 }
 .imput-30  {
@@ -63,6 +63,6 @@ body {
   border-radius:7px;
 }
 .btn-insertar:active {
-  transdorm: scale(1.05);
+  transform: scale(1.05);
 }
     
